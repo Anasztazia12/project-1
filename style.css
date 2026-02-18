@@ -25,6 +25,16 @@ header h1 {
   letter-spacing: 3px;
   margin: 0 0 10px;
 }
+main ul {
+  margin-top: 15px;
+  padding-left: 20px;
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+main ul li strong {
+  color: #ffeb3b;
+}
 
 /* FISHING IMAGE */
 
