@@ -26,13 +26,15 @@ header h1 {
   margin: 0 0 10px;
 }
 .fishing-image {
-  max-width: 100%;
+  width: 50%;
+  max-width: 400px;
   height: auto;
   display: block;
   margin: 25px auto;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.6);
 }
+
 
 /* NAV */
 
@@ -94,16 +96,15 @@ main p {
 }
 
 /* CARP image and table*/
-
 .carp2-image {
-  max-width: 100%;
+  width: 50%;
+  max-width: 400px;
   height: auto;
   display: block;
   margin: 25px auto;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.6);
 }
-
 
 .carp-table {
   width: 100%;
