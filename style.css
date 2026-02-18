@@ -97,23 +97,12 @@ main p {
   line-height: 1.7;
 }
 
-/* MAP + FISH MARKER */
+/* MAP */
 
 .map-wrapper {
   position: relative;
   width: 600px;
   margin: 20px auto;
-}
-
-.fish-marker {
-  position: absolute;
-  width: 45px;
-  height: auto;
-  top: 44%;      /* pontosított hely az Euro Aqua tóra */
-  left: 52%;     /* finomhangolt pozíció */
-  transform: translate(-50%, -100%);
-  pointer-events: none;
-  filter: drop-shadow(0 0 6px rgba(0,0,0,0.7));
 }
 
 .map-caption {
