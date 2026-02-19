@@ -142,6 +142,18 @@ table td {
 table tr:hover {
   background-color: rgba(255, 255, 255, 0.08);
 }
+.contact-item {
+  margin-bottom: 8px;
+}
+
+.label {
+  font-weight: bold;
+  color: white;
+}
+
+.value {
+  color: white;
+}
 
 /* FISHING IMAGE */
 
